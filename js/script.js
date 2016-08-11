@@ -18,3 +18,6 @@ for (var i = 1; i <= number; i++) {
 };
 
 playFizzbuzz(num);
+
+parseInt(num);
+string.indexOf(".")==-1;
